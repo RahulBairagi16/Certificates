@@ -2,9 +2,8 @@
 
 ## 📘 Data Analysis with Python by IBM 
 
-- **Platform**: IBM / CognitiveClass.ai  
+- **Platform**: IBM 
 - **Completion Date**: January 5, 2025  
-- **Duration**: 3 Hours  
 - **Skills Covered**:
   - Data Wrangling using Pandas
   - Exploratory Data Analysis (EDA)
