@@ -1,6 +1,6 @@
 # 🏆 Certifications & Learning Milestones
 
-## 📘 Data Analysis with Python by IBM (via CognitiveClass)
+## 📘 Data Analysis with Python by IBM 
 
 - **Platform**: IBM / CognitiveClass.ai  
 - **Completion Date**: January 5, 2025  
