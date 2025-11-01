@@ -1,6 +1,6 @@
-# 🏆 Certifications & Learning Milestones
+#  Certifications & Learning Milestones
 
-## 📘 Data Analysis with Python by IBM 
+##  Data Analysis with Python by IBM 
 
 - **Platform**: IBM 
 - **Completion Date**: January 5, 2025  
@@ -16,7 +16,7 @@ This course provided a foundational and practical understanding of how to manipu
 
 ---
 
-## 📊 Data Analytics Essentials (Cisco Networking Academy)
+##  Data Analytics Essentials (Cisco Networking Academy)
 
 - **Badge**: `Data_Analytics_Essentials_Badge20240816-7-viriwl`  
 - **Platform**: Cisco Networking Academy (via Kaggle)  
@@ -36,7 +36,7 @@ Awarded a digital badge recognizing knowledge and readiness to begin projects in
 
 ---
 
-## 🧠 Techathon Certificate
+##  Techathon Certificate
 
 - **Event**: Techathon – Innovation & Data Science Competition  
 - **Role**: Participant / Contributor  
